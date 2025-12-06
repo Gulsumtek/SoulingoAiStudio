@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Future Fluent You",
+  "description": "Visualize your future fluent self and master English pronunciation with real-time AI coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
